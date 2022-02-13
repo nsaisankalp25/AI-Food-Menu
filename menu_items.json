@@ -1,0 +1,13 @@
+{"Omelette": ["egg", "spice", "turmeric_powder", "salt", "chilli", "oil"],
+"Dosa": ["rice", "urad_dal", "salt"],
+"Idli": ["urad_dal", "ravva", "salt"],
+"Upma": ["semolina", "ginger", "chilli", "herbs", "onions", "salt"],
+"chappati": ["flour", "salt", "oil"],
+"cake": ["flour", "egg", "milk", "sugar", "butter", "cream"],
+"curry": ["spice", "hing", "turmeric_powder", "salt", "oil", "chilli", "dry_chilli"],
+"Tea": ["tea_powder", "sugar", "cardamom", "cinamon", "ginger", "milk"],
+"Coffee": ["coffee_powder", "sugar", "milk"],
+"pizza": ["cheese","chicken", "tomato", "flour", "salt", "spice", "dry_chilli"],
+"lemon_rice": ["rice", "lemon", "oil","salt", "chilli", "dry_chilli", "peanuts", "channa_dal", "mustard_seeds", "hing", "turmeric_powder"]
+
+}
